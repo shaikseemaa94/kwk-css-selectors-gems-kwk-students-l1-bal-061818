@@ -9,7 +9,7 @@
 
 /* Select the image with class of emerald */
 
-/*selector for emerald goes here */ .emerald img {
+/*selector for emerald goes here */ .emerald  {
   position: absolute;
   z-index: 2;
   top: 350px;
@@ -27,7 +27,7 @@
 
 /* Select the image with the class "yellow_diamond" */
 
-/*selector for yellow diamond goes here */ .yellow_diamond img {
+/*selector for yellow diamond goes here */ .yellow_diamond  {
   position: absolute;
   z-index: 4;
   top: 325px;
