@@ -1,6 +1,6 @@
 /* Select the image with a id of ruby */
 
-/*selector for ruby goes here */ #ruby img {
+/*selector for ruby goes here */ #ruby {
   position: absolute;
   z-index: 1;
   top: 315px;
@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
-/*selector for sapphire goes here */#sand img{
+/*selector for sapphire goes here */#sand img {
   position: absolute;
   z-index: 5;
   top: 315px;
@@ -35,7 +35,7 @@
 }
 
 /* Select the image that has ad id of diamond */
-/*selector for diamond goes here */ #diamond img {
+/*selector for diamond goes here */ #diamond  {
   position: absolute;
   z-index: 3;
   top: 300px;
