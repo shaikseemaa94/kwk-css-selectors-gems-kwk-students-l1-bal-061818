@@ -13,8 +13,7 @@
   position: absolute;
   z-index: 2;
   top: 350px;
-  left: 369px;
-}
+  left: 369px;}
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
